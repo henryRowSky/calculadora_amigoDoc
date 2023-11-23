@@ -17,8 +17,8 @@ $i++;
 
 /* Authentication type and info */
 $cfg['Servers'][$i]['auth_type'] = 'config';
-$cfg['Servers'][$i]['user'] = 'amigoDoctor';
-$cfg['Servers'][$i]['password'] = 'amigoDoctor';
+$cfg['Servers'][$i]['user'] = 'amigo_doctor';
+$cfg['Servers'][$i]['password'] = 'amigo_doctor';
 $cfg['Servers'][$i]['extension'] = 'mysqli';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 $cfg['Lang'] = '';

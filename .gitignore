@@ -1,0 +1,12 @@
+.DS_Store
+manual/videos/
+*.mp4
+data/mysql/*.sql
+/www/documents/*
+/www/api/*
+/www/prod/*
+/.env
+/.vscode
+/logs/apache2/*
+/logs/mysql/*
+!.gitkeep
